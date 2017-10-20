@@ -17,8 +17,7 @@ Follow @CogSys on Twitter and Instagram for the latest updates.
 Contributions to mirror repositories should be sent to the original repository...
 
 # Repository List
-
-## Tools
+## Courses
 
 - 1..
 - 2..
@@ -28,8 +27,12 @@ Contributions to mirror repositories should be sent to the original repository..
 - 1..
 - 2..
 
-## Research Papers
+## Tools
 
 - 1..
 - 2..
 
+## Research Papers
+
+- 1..
+- 2..
