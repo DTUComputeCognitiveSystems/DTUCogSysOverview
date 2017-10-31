@@ -2,6 +2,9 @@
 
 
 ![][logo]
+
+## See the list of our repositories here: [Overview](overview.md)
+
 # Cognitive Systems (CogSys)
 Modern life is embedded in intelligent systems, from the mind reading Internet to hearing aids listening in on our conversations.
 
@@ -14,25 +17,7 @@ Our research is based on statistical machine learning and signal processing, on 
 Follow @CogSys on Twitter and Instagram for the latest updates.
 
 # Contributing
-Contributions to mirror repositories should be sent to the original repository...
+Contributions to mirror repositories should be sent to the original repository.
 
-# Repository List
-## Courses
+Non-mirrors are actively developed within the organization.
 
-- 1..
-- 2..
-
-## Model Implementations
-
-- 1..
-- 2..
-
-## Tools
-
-- 1..
-- 2..
-
-## Research Papers
-
-- 1..
-- 2..
